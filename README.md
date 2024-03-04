@@ -7,7 +7,8 @@
 
 ### About the Experiment 
 
-To study the principle and dependent parameters of advanced welding processes like laser welding and friction stir welding.
+- To measure the Cp distribution and compare with theoretical results 
+- To find the Coefficient of drag from Cp distribution.
 
 # Subject Matter Experts
 | SNo. | Name | Email | Department | Institute | Profile |
