@@ -40,7 +40,7 @@ An open return low subsonic suction-type atmospheric wind tunnel generates the f
 
 <center>
 
-<img  src='./images/Cylinder_CAD.png' style="width:50%">
+<img  src='./images/Cylinder_CAD.PNG' style="width:50%">
 
 ##### Fig.3 - Cylindrical model used in the experiment.
 </center>
