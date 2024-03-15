@@ -15,7 +15,7 @@
 
 <center>
 
-<img  src='./images/wind_tunnel_photo1.png' style="width:50%">
+<img  src='./images/Wind_tunnel_photo1.png' style="width:50%">
 
 ##### Fig.1 - Windtunnel with Settling chamber, Honeycomb and Entrance highlited
 </center>
@@ -24,7 +24,7 @@
  
 <center>
 
-<img  src='./images/wind_tunnel_photo2.png' style="width:50%">
+<img  src='./images/Wind_tunnel_photo2.png' style="width:50%">
 
 
 ##### Fig.2 - Windtunnel with Diffuser, Test-section, VFD and Contraction cone highlighted.
@@ -109,13 +109,13 @@ To operate DSA, a manufacturer-provided software DSALink is required. The softwa
 
 10.	Tabulate all the data and calculate ***C<sub>p</sub>*** and  ***C<sub>D</sub>*** using the equations.
 
-    #### Calculations
+#### Calculations
 
-    - From eq. (3) determine the experimental Coefficient of pressure, may call it as experimental value
+   - From eq. (3) determine the experimental Coefficient of pressure, may call it as experimental value
 
-    - From eq. (4),determine the theoretical Coefficient of pressure.
+   - From eq. (4),determine the theoretical Coefficient of pressure.
 
-    - From eq. (5),determine the drag Coefficient.
+   - From eq. (5),determine the drag Coefficient.
 
 
 11. Plot graph for theoretical  and experimental Coefficient of pressure.
