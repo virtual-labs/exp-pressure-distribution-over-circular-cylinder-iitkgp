@@ -95,7 +95,7 @@ To operate DSA, a manufacturer-provided software DSALink is required. The softwa
 
 3. Connect the reference port of the DSA3217 to the pressure port at the inlet of test section.
 
-4. Connect a port on DSA3217 with the circular cylinder using pneumatic tube. The reading at the connected port is now (***P<sub>&Theta;</sub> - P<sub>&#x221E;</sub>***).
+4. Connect the ports on DSA3217 with the circular cylinder using pneumatic tube. The reading at the connected port is now (***P<sub>&Theta;</sub> - P<sub>&#x221E;</sub>***).
 
 5. Connect a port on DSA3217 with the pressure port at the settling chamber using pneumatic tube. The reading at the connected port is now    (***P<sub>0</sub> - P<sub>&#x221E;</sub>***).
 
@@ -103,7 +103,7 @@ To operate DSA, a manufacturer-provided software DSALink is required. The softwa
 
 7. Set a desired velocity in the wind tunnel using VFD.
 
-8.	Take the pressure measurements at different anlges by rotating cylinder at sample interval until  ***360<sup>o</sup>***. In this experiment, we considered at an interval of ***18<sup>o</sup>***.
+8.	Take the pressure measurements.
 
 9.	The experiment can be repeated for different velocity to get readings for different Reynolds number.
 
