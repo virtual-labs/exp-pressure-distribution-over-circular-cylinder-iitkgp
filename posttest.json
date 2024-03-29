@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "What is the position of stagnation point, when a non-rotating cylinder is placed in the wind tunnel?",
+        "answers": {
+          "a": "Lowest point",
+          "b": "Highest point",
+          "c": "Windward side centre point",
+          "d": "Leeward side centre point"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The amount of lift generated in case of flow over a non-rotating cylinder is",
+        "answers": {
+          "a": "Infinity",
+          "b": "Positive lift",
+          "c": "Negative lift",
+          "d": "No lift"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "For incompressible flow, Coefficient of pressure is expressed only in terms of",
+        "answers": {
+          "a": "Pressure.",
+          "b": "Density.",
+          "c": "Temperature",
+          "d": "Velocity"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The highest value of Cp is at?",
+        "answers": {
+          "a": "end points",
+          "b": "stagnation point",
+          "c": "at boundaries",
+          "d": "in wake"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "As per the Potential flow theory, surface pressure coefficient over a circular cylinder is given by?",
+        "answers": {
+          "a": "Cp = 1- 4sin&theta;",
+          "b": "Cp = 1- 4cos&theta;",
+          "c": "Both a and b.",
+          "d": "None of the above."
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  

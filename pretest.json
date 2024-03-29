@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "When is air assumed to be incompressible?",
+        "answers": {
+          "a": "Mach number less than 0.3",
+          "b": "Mach number greater than 0.3",
+          "c": "Independent of Mach number",
+          "d": "None of the mentioned"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Combination of uniform flow and doublet flow gives",
+        "answers": {
+          "a": "flow past a circular cylinder",
+          "b": "flow past a half body",
+          "c": "flow past a full body",
+          "d": "flow past a wedge"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Coefficient of pressure is a",
+        "answers": {
+          "a": "dimensional quantity",
+          "b": "dimensionless quantity",
+          "c": "negligible value",
+          "d": "none of the above"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "When the velocity at a point becomes zero, it refers to",
+        "answers": {
+          "a": "Slip condition",
+          "b": "No slip condition",
+          "c": "Positive slip condition",
+          "d": "Negative slip condition"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "In real life, zero drag is acceptable.",
+        "answers": {
+          "a": "True",
+          "b": "False",
+          "c": "Both a and b",
+          "d": "none of the above"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
