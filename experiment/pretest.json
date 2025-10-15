@@ -2,58 +2,69 @@
     "version": 2.0,
     "questions": [
       {
-        "question": "When is air assumed to be incompressible?",
+        "question": "For a circular cylinder in a uniform inviscid flow (ideal fluid, potential flow), the pressure distribution is symmetric about:",
         "answers": {
-          "a": "Mach number less than 0.3",
-          "b": "Mach number greater than 0.3",
-          "c": "Independent of Mach number",
-          "d": "None of the mentioned"
+          "a": "Horizontal axis only",
+          "b": "Vertical axis only",
+          "c": "Both horizontal and vertical axes",
+          "d": "Neither axis"
         },
-        "correctAnswer": "a",
+        "correctAnswer": "c",
         "difficulty": "beginner"
       },
       {
-        "question": "Combination of uniform flow and doublet flow gives",
+        "question": "In real (viscous) flow over a circular cylinder at moderate Reynolds numbers, the main reason for asymmetric pressure distribution is:",
         "answers": {
-          "a": "flow past a circular cylinder",
-          "b": "flow past a half body",
-          "c": "flow past a full body",
-          "d": "flow past a wedge"
-        },
-        "correctAnswer": "a",
-        "difficulty": "beginner"
-      },
-      {
-        "question": "Coefficient of pressure is a",
-        "answers": {
-          "a": "dimensional quantity",
-          "b": "dimensionless quantity",
-          "c": "negligible value",
-          "d": "none of the above"
+          "a": "Compressibility of air",
+          "b": "Boundary layer separation",
+          "c": "Incorrect measurement of velocity",
+          "d": "Cylinder surface roughness only"
         },
         "correctAnswer": "b",
         "difficulty": "beginner"
       },
       {
-        "question": "When the velocity at a point becomes zero, it refers to",
+        "question": "According to potential flow theory, the stagnation points on a circular cylinder are located at:",
         "answers": {
-          "a": "Slip condition",
-          "b": "No slip condition",
-          "c": "Positive slip condition",
-          "d": "Negative slip condition"
+          "a": "Top and bottom of the cylinder",
+          "b": "Front and rear of the cylinder (180<sup>o</sup> and 0<sup>o</sup>)",
+          "c": "45<sup>o</sup> and 225<sup>o</sup> from the leading edge along the flow axis",
+          "d": "Distributed uniformly along the surface"
         },
         "correctAnswer": "b",
         "difficulty": "beginner"
       },
       {
-        "question": "In real life, zero drag is acceptable.",
+        "question": "When circulation is introduced around a circular cylinder (Kutta–Joukowski theorem), the cylinder generates:",
         "answers": {
-          "a": "True",
-          "b": "False",
-          "c": "Both a and b",
-          "d": "none of the above"
+          "a": "Only drag force",
+          "b": "Only lift force",
+          "c": "Both lift and drag",
+          "d": "Neither lift nor drag"
         },
         "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "In the wake region behind a circular cylinder in real flow, the pressure is generally:",
+        "answers": {
+          "a": "Higher than free-stream pressure",
+          "b": "Equal to free-stream static pressure",
+          "c": "Equal to stagnation pressure",
+          "d": "Lower than free-stream pressure"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The d’Alembert’s Paradox is concerned with ____",
+        "answers": {
+          "a": "Lift arising due to pressure distribution",
+          "b": "High viscous effects",
+          "c": "Theoretical result of zero drag",
+          "d": "Kutta condition not satisfied"
+        },
+        "correctAnswer": "c",
         "difficulty": "beginner"
       }
     ]
