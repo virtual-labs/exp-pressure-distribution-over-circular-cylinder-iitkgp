@@ -95,7 +95,7 @@ The drag component of this force is the component acting in the direction of the
 <img  src='./images/eq6.png' style="width:10%">
 </center>
 
-The integral of this around the cylinder circumference gives the total drag on the cylinder per unit span d.
+The integral of this around the cylinder circumference gives the total drag on the cylinder per unit span D.
 <center>
 <img  src='./images/eq7.png' style="width:15%">
 </center>

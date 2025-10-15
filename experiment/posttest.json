@@ -4,10 +4,10 @@
       {
         "question": "What is the position of stagnation point, when a non-rotating cylinder is placed in the wind tunnel?",
         "answers": {
-          "a": "Lowest point",
-          "b": "Highest point",
-          "c": "Windward side centre point",
-          "d": "Leeward side centre point"
+          "a": "Topmost point",
+          "b": "Bottom-most point",
+          "c": "Leading edge along the flow axis",
+          "d": "Trailing edge along the flow axis"
         },
         "correctAnswer": "c",
         "difficulty": "beginner"
