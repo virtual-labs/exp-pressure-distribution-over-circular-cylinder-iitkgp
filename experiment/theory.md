@@ -17,7 +17,7 @@ Flow over a cylinder is a fundamental aerodynamics problem of practical importan
 <center>
 <img  src='./images/Cylinder_graph.png' style="width:50%" >
 
-<figcaption align = "center"><b>Fig.2 - Measured pressure ditributions on a circular cylinder with a theoretical distribution calculated assuming ideal flow. Angle theta defined in Figure 1 <br> (adapted from : Bertin and Smith(1989))</b></figcaption>
+<figcaption align = "center"><b>Fig.2 - Measured pressure distributions on a circular cylinder with a theoretical distribution calculated assuming ideal flow. Angle theta defined in Figure 1 <br> (adapted from : Bertin and Smith(1989))</b></figcaption>
 </center>
 
 
@@ -65,15 +65,15 @@ II. From potential flow theory,
 
 Where,
 
-P    - Presure
+P    - Pressure
 
-C<sub>p</sub>  - Coefficient of presure
+C<sub>p</sub>  - Coefficient of pressure
 
 V    - Velocity
 
 ρ - Density of fluid
 
-θ  - Angle between oncoming flow directiona and port location.
+θ  - Angle between oncoming flow direction and port location.
 
 Subscript
 

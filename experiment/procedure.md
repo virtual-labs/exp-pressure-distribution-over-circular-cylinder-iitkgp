@@ -17,7 +17,7 @@
 
 <img  src='./images/Wind_tunnel_photo1.png' style="width:50%">
 
-##### Fig.1 - Windtunnel with Settling chamber, Honeycomb and Entrance highlited
+##### Fig.1 - Windtunnel with Settling chamber, Honeycomb and Entrance highlighted
 </center>
 
 
